@@ -1,0 +1,21 @@
+.container.text-center{
+    margin-top: 50px; /*Отступ сверху */
+}
+
+.card-img-top{
+    width: 100%; /* Ширина изображения */
+
+}
+
+.card{
+    height: 250px; /* карточка*/
+}
+
+.container.text-center>p{
+    font-size: 20px;
+    
+}
+
+footer{
+    height: 50px;
+}
